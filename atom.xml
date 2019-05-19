@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-05-12T03:08:13.737Z</updated>
+  <updated>2019-05-19T02:26:03.670Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>名古屋7天6夜自由行</title>
+    <link href="http://yoursite.com/2019/05/19/post-travel-notes-nagoya/"/>
+    <id>http://yoursite.com/2019/05/19/post-travel-notes-nagoya/</id>
+    <published>2019-05-19T02:13:58.000Z</published>
+    <updated>2019-05-19T02:26:03.670Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;##城市概况&lt;/p&gt;
+&lt;p&gt;###名古屋市&lt;br&gt;名古屋市（英文：Nagoya，日文平假名：なごやし），位于日本爱知县西部，爱知县首府，也是日本三大都市圈之一名古屋都市圈的中心城市，属于日本二战前规定的国内六大都市之一。名古屋市是日本人口第四大城市。全市总面积326.45平
+        
+      
+    
+    </summary>
+    
+    
+      <category term="旅游 美食 攻略" scheme="http://yoursite.com/tags/%E6%97%85%E6%B8%B8-%E7%BE%8E%E9%A3%9F-%E6%94%BB%E7%95%A5/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
